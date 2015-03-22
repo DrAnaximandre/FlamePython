@@ -1,0 +1,17 @@
+- Parameters:
+    -s=1020
+    -nbpt=500000
+    -reps=30
+
+-Total execution time:  1095.26699996 seconds ---
+ -Details: 
+   -Generation of the first image A: 4.98399996758 seconds
+   -Time to copy the first image (create B): 9.11800003052 seconds 
+   -Time to mute the first B: 1.25999999046 seconds 
+
+ -Some means: 
+   - Mean time of the toImage operation: 20.4621332963 seconds
+   - Mean time of the writing operation: 0.0652333339055 seconds
+   - Mean time of the A mutation (Serps'): 1.27548279433 seconds
+   - Mean time of the B copy: 13.4315516949 seconds
+   - Mean time of the blob filter (muteB): 1.28082761271 seconds
