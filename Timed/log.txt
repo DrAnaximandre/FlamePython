@@ -1,0 +1,88 @@
+
+
+-Total execution time:  1.11199998856 seconds ---
+ -Details: 
+   -Generation of the first image A: 0.0400002002716 seconds
+
+ -Some means: 
+   - Mean time of the toImage operation: 0.0343999624252 seconds
+   - Mean time of the writing operation: 0.0 seconds
+   - Mean time of the A mutation : 0.0808889071147 seconds
+- Parameters:
+    -s=1020
+    -nbpt=500000
+    -reps=10
+
+-Total execution time:  112.694000006 seconds ---
+ -Details: 
+   -Generation of the first image A: 4.75200009346 seconds
+
+ -Some means: 
+   - Mean time of the toImage operation: 3.48099994659 seconds
+   - Mean time of the writing operation: 0.126500034332 seconds
+   - Mean time of the A mutation : 7.9730000231 seconds
+- Parameters:
+    -s=1020
+    -nbpt=500000
+    -reps=10
+
+-Total execution time:  111.921000004 seconds ---
+ -Details: 
+   -Generation of the first image A: 4.49800014496 seconds
+
+ -Some means: 
+   - Mean time of the toImage operation: 3.51089994907 seconds
+   - Mean time of the writing operation: 0.12610001564 seconds
+   - Mean time of the A mutation : 7.88255559074 seconds
+- Parameters:
+    -s=1020
+    -nbpt=500000
+    -reps=10
+
+-Total execution time:  110.420000076 seconds ---
+ -Details: 
+   -Generation of the first image A: 4.69000005722 seconds
+
+ -Some means: 
+   - Mean time of the toImage operation: 3.48670003414 seconds
+   - Mean time of the writing operation: 0.12549996376 seconds
+   - Mean time of the A mutation : 7.72199998962 seconds
+- Parameters:
+    -s=1020
+    -nbpt=500000
+    -reps=10
+
+-Total execution time:  110.725000143 seconds ---
+ -Details: 
+   -Generation of the first image A: 4.43300008774 seconds
+
+ -Some means: 
+   - Mean time of the toImage operation: 3.50590000153 seconds
+   - Mean time of the writing operation: 0.126600003242 seconds
+   - Mean time of the A mutation : 7.76222221057 seconds
+- Parameters:
+    -s=1020
+    -nbpt=500000
+    -reps=10
+
+-Total execution time:  111.502000093 seconds ---
+ -Details: 
+   -Generation of the first image A: 4.64800000191 seconds
+
+ -Some means: 
+   - Mean time of the toImage operation: 3.52070002556 seconds
+   - Mean time of the writing operation: 0.129399991035 seconds
+   - Mean time of the A mutation : 7.80477775468 seconds
+- Parameters:
+    -s=1020
+    -nbpt=500000
+    -reps=10
+
+-Total execution time:  110.376000166 seconds ---
+ -Details: 
+   -Generation of the first image A: 4.65700006485 seconds
+
+ -Some means: 
+   - Mean time of the toImage operation: 3.48790004253 seconds
+   - Mean time of the writing operation: 0.129599928856 seconds
+   - Mean time of the A mutation : 7.71488891708 seconds
